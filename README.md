@@ -7,7 +7,7 @@
 - Python 
 - SQL
 - MS Ecxel
-- BI (Tableau)
+- BI (Tableau, DataLens)
 - MS Office 
 - Jupyter notebook
 - DBeaver
